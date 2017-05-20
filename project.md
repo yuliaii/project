@@ -13,11 +13,11 @@
 |Возможность развития проекта до более глобального уровня, выхода на новые сегменты рынка||
 
 ## Диаграмму Исикавы
- ![](https://github.com/yuliaii/project/blob/master/Isikava.jpg "Isikava2")
+ ![](https://github.com/yuliaii/project/blob/master/Isikava2.jpg "Isikava")
 
 ## Метод парных сравнений
  
- ![](https://github.com/yuliaii/project/blob/master/parn.jpg "parn2")
+ ![](https://github.com/yuliaii/project/blob/master/parn2.jpg "parn")
  
  ## Диаграмма Парето
  
