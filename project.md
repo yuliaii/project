@@ -22,3 +22,10 @@
  ## Диаграмма Парето
  
   ![](https://github.com/yuliaii/project/blob/master/Pareto.jpg "Pareto")
+
+ ## Сетевой график
+   ![](https://github.com/yuliaii/project/blob/master/_.jpg "Sg")
+ 
+ 
+## Диаграмма Ганта
+  ![](https://github.com/yuliaii/project/blob/master/Gang.jpg "Gang")
